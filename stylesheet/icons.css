@@ -1,0 +1,114 @@
+
+
+
+  svg.icon-symbol {
+    display: inline-block;
+    vertical-align: middle;
+    stroke: red;
+    fill: blue;
+    /* round / butt / butt */
+    stroke-linecap: butt; 
+    /* round / bevel / miter */
+    stroke-linejoin: miter;
+    /* 0.5px / 1px / 1.5px / 2px / 2.5px / 3px / 3.5px */
+    stroke-width: 2px;
+  }
+  
+  
+  svg.icon-symbol.x18 {width: 16px; height: 16px;}
+  svg.icon-symbol.x24 {width: 24px; height: 24px;}
+  svg.icon-symbol.x36 {width: 32px; height: 32px;}
+  svg.icon-symbol.x48 {width: 48px; height: 48px;}
+  
+  
+  svg.symbol-search {stroke: #000000; fill: none;}
+  svg.symbol-close {stroke: #000000; fill: none;}
+  svg.symbol-plus {stroke: #000000; fill: none;}
+  svg.symbol-minus {stroke: #000000; fill: none;}
+  svg.symbol-play {stroke: #000000; fill: none;}
+  svg.symbol-pause {stroke: #000000; fill: none;}
+  svg.symbol-backwards {stroke: #000000; fill: none;}
+  svg.symbol-forwards {stroke: #000000; fill: none;}
+  svg.symbol-move {stroke: #000000; fill: none;}
+  svg.symbol-star {stroke: #000000; fill: none;}
+  svg.symbol-checkmark {stroke: #000000; fill: none;}
+  svg.symbol-chevron-top {stroke: #000000; fill: none;}
+  svg.symbol-chevron-right {stroke: #000000; fill: none;}
+  svg.symbol-chevron-bottom {stroke: #000000; fill: none;}
+  svg.symbol-chevron-left {stroke: #000000; fill: none;}
+  svg.symbol-arrow-top {stroke: #000000; fill: none;}
+  svg.symbol-arrow-right {stroke: #000000; fill: none;}
+  svg.symbol-arrow-bottom {stroke: #000000; fill: none;}
+  svg.symbol-arrow-left {stroke: #000000; fill: none;}
+  svg.symbol-caret-top {stroke: #000000; fill: none;}
+  svg.symbol-caret-right {stroke: #000000; fill: none;}
+  svg.symbol-caret-bottom {stroke: #000000; fill: none;}
+  svg.symbol-caret-left {stroke: #000000; fill: none;}
+  svg.symbol-start {stroke: #000000; fill: none;}
+  svg.symbol-end {stroke: #000000; fill: none;}
+  svg.symbol-eject {stroke: #000000; fill: none;}
+  svg.symbol-mute {stroke: #000000; fill: none;}
+  svg.symbol-volume {stroke: #000000; fill: none;}
+  svg.symbol-ban {stroke: #000000; fill: none;}
+  svg.symbol-flag {stroke: #000000; fill: none;}
+  svg.symbol-options {stroke: #000000; fill: none;}
+  svg.symbol-settings {stroke: #000000; fill: none;}
+  svg.symbol-heart {stroke: #000000; fill: none;}
+  svg.symbol-clock {stroke: #000000; fill: none;}
+  svg.symbol-menu {stroke: #000000; fill: none;}
+  svg.symbol-msg {stroke: #000000; fill: none;}
+  svg.symbol-photo {stroke: #000000; fill: none;}
+  svg.symbol-camera {stroke: #000000; fill: none;}
+  svg.symbol-video {stroke: #000000; fill: none;}
+  svg.symbol-music {stroke: #000000; fill: none;}
+  svg.symbol-mail {stroke: #000000; fill: none;}
+  svg.symbol-home {stroke: #000000; fill: none;}
+  svg.symbol-user {stroke: #000000; fill: none;}
+  svg.symbol-trash {stroke: #000000; fill: none;}
+  svg.symbol-paperclip {stroke: #000000; fill: none;}
+  svg.symbol-file {stroke: #000000; fill: none;}
+  svg.symbol-folder {stroke: #000000; fill: none;}
+  svg.symbol-folder-open {stroke: #000000; fill: none;}
+  svg.symbol-work {stroke: #000000; fill: none;}
+  svg.symbol-portfolio {stroke: #000000; fill: none;}
+  svg.symbol-bell {stroke: #000000; fill: none;}
+  svg.symbol-book {stroke: #000000; fill: none;}
+  svg.symbol-calendar {stroke: #000000; fill: none;}
+  svg.symbol-eye {stroke: #000000; fill: none;}
+  svg.symbol-bookmark {stroke: #000000; fill: none;}
+  svg.symbol-tag {stroke: #000000; fill: none;}
+  svg.symbol-lightning {stroke: #000000; fill: none;}
+  svg.symbol-activity {stroke: #000000; fill: none;}
+  svg.symbol-location {stroke: #000000; fill: none;}
+  svg.symbol-export {stroke: #000000; fill: none;}
+  svg.symbol-import {stroke: #000000; fill: none;}
+  svg.symbol-inbox {stroke: #000000; fill: none;}
+  svg.symbol-archive {stroke: #000000; fill: none;}
+  svg.symbol-reply {stroke: #000000; fill: none;}
+  svg.symbol-edit {stroke: #000000; fill: none;}
+  svg.symbol-compose {stroke: #000000; fill: none;}
+  svg.symbol-upload {stroke: #000000; fill: none;}
+  svg.symbol-download {stroke: #000000; fill: none;}
+  svg.symbol-send {stroke: #000000; fill: none;}
+  svg.symbol-link {stroke: #000000; fill: none;}
+  svg.symbol-code {stroke: #000000; fill: none;}
+  svg.symbol-lock {stroke: #000000; fill: none;}
+  svg.symbol-unlock {stroke: #000000; fill: none;}
+  svg.symbol-print {stroke: #000000; fill: none;}
+  svg.symbol-alert {stroke: #000000; fill: none;}
+  svg.symbol-info {stroke: #000000; fill: none;}
+  svg.symbol-creditcard {stroke: #000000; fill: none;}
+  svg.symbol-cart {stroke: #000000; fill: none;}
+  svg.symbol-bag {stroke: #000000; fill: none;}
+  svg.symbol-gift {stroke: #000000; fill: none;}
+  svg.symbol-external {stroke: #000000; fill: none;}
+  svg.symbol-reload {stroke: #000000; fill: none;}
+  svg.symbol-clipboard {stroke: #000000; fill: none;}
+  svg.symbol-microphone {stroke: #000000; fill: none;}
+  svg.symbol-telephone {stroke: #000000; fill: none;}
+  svg.symbol-desktop {stroke: #000000; fill: none;}
+  svg.symbol-mobile {stroke: #000000; fill: none;}
+  svg.symbol-ellipsis-horizontal {stroke: #000000; fill: none;}
+  svg.symbol-ellipsis-vertical {stroke: #000000; fill: none;}
+  svg.symbol-twitter {stroke: #000000; fill: none;}
+  svg.symbol-github {stroke: #000000; fill: none;}

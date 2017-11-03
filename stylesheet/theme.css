@@ -1,0 +1,22 @@
+
+
+
+
+
+
+body {
+  background: #f4f4f4;
+}
+
+
+.container-fluid,
+.container {
+  padding-right: 40px;
+  padding-left: 40px;
+  background: #fff;
+}
+
+.row {
+  margin-right: -20px;
+  margin-left: -20px;
+}
